@@ -6,13 +6,13 @@
 
 <br>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-ID">
+<a href="https://linkedin.com/in/rahul-porwal-88a465420">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
 </a>
-<a href="https://instagram.com/YOUR-INSTAGRAM-ID">
+<a href="https://instagram.com/rahul__jain162">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" />
 </a>
-<a href="mailto:youremail@example.com">
+<a href="mailto:rp8279976@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
 </a>
 
